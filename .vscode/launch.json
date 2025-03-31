@@ -14,7 +14,7 @@
             "name": "Debug with Env",
             "mainClass": "com.yourapp.Main",
             "env": {
-                "OPENAI_API_KEY": "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"
+                "OPENAI_API_KEY": ""
             }
         }
     ]
